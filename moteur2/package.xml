@@ -6,7 +6,8 @@
   <description>TODO: Package description</description>
   <maintainer email="ashamyu5@gmail.com">pi</maintainer>
   <license>TODO: License declaration</license>
-
+  
+  <depend>std_msgs</depend>
   <depend>rclpy</depend>
 
   <test_depend>ament_copyright</test_depend>
